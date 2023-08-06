@@ -5,7 +5,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=About%20ME&fontSize=50&fontColor=DB9CFF)
 
 <div align = center>
+  <a href="https://github.com/Min-nee/Min-nee">
   <h3>🙋‍♀️Introduction🙋‍♀️</h3>
+  </a>
   <span>
     안녕하세요! 저는 신입개발자 민지연입니다
   </span>
